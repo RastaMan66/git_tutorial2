@@ -1,3 +1,3 @@
 # git_tutorial2
 #this file was changed
-changes added to test sync
+this changes was made for test branch 
